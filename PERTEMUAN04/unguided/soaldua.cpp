@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    cout << ""<<endl;
+    
     int bil, counter, total=1;
 
     cout << "Masukan bilangan: ";
@@ -17,6 +17,6 @@ int main(){
     }
 
     cout << "Hasil Pangkat: "<< total;
-    cout << ""<<endl<<endl;
+   
     return 0;
 }
