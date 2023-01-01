@@ -13,6 +13,5 @@ int main(){
             cout << "Bilangan anda tersimpan di urutan array ke " << i + 1 <<endl;
         }
     }
-
     return 0;
 }
